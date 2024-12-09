@@ -128,6 +128,7 @@ Thumbs.db
 # Other sensitive files
 *.pem
 *.key
+*.json
 
 # Add your specific sensitive files or directories below
 # e.g., secret-keys.txt, .secret-config.yaml, etc.
